@@ -1,0 +1,80 @@
+<!--start footer-->
+<mj-wrapper background-color="#F6F7F8" padding="0">
+  <mj-section background-color="#F6F7F8" padding="5px 0 5px">
+    <mj-column>
+      <mj-text color="#53A318" align="center" vertical-align="middle" font-size="18px" font-weight="bold">
+        Get the Free Groupon App
+      </mj-text>
+    </mj-column>
+  </mj-section>
+  <mj-section background-color="#F6F7F8" padding="0 0 28px">
+    <mj-group>
+      <mj-column padding="5px">
+        <mj-image src="http://127.0.0.1:5500/assets/appstore.png" href="https://www.groupon.com/mobile?grpn_dl=US_DL_BANNER_EMAIL_FOOTER_COMMERCIAL&utm_source=email&utm_medium=email&utm_campaign=US_DL_BANNER_EMAIL_FOOTER_COMMERCIAL" alt="apple store application link" width="100px" height="30px" align="right" />
+      </mj-column>
+      <mj-column padding="5px">
+        <mj-image src="http://127.0.0.1:5500/assets/googleplay.png" href="https://www.groupon.com/mobile?grpn_dl=US_DL_BANNER_EMAIL_FOOTER_COMMERCIAL&utm_source=email&utm_medium=email&utm_campaign=US_DL_BANNER_EMAIL_FOOTER_COMMERCIAL" alt="google play app store application link" width="100px" height="30px" align="left" />
+      </mj-column>
+    </mj-group>
+  </mj-section>
+  <mj-section background-color="#F6F7F8">
+    <mj-column width="95%">
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" />
+    </mj-column>
+  </mj-section>
+  <<mj-section background-color="#F6F7F8" text-align="center" padding="28px 0 0">
+    <mj-group width="500px" vertical-align="middle">
+      <mj-column>
+        <mj-text font-size="13px" color="#333333" align="right">
+          <a href="https://www.groupon.com/merchant/signup?utm_source=channel_pc_im&utm_medium=email&t_division=harrisburg&date=20220804&uu=980428dc-d58d-11ea-a1ab-0242ac120002&CID=US&tx=0&s=&c=link&d=GrouponMerchant&utm_campaign=0fad3c4f-0636-40fc-bf1e-0ae077b9ac6b_0_20220804_treatment1" style="color:#333333; font-size:12px!important;">Groupon Merchant</a> |
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="13px" color="#333333" align="center">
+          <a href="https://www.groupon.com/faq?utm_source=channel_pc_im&utm_medium=email&t_division=harrisburg&date=20220804&uu=980428dc-d58d-11ea-a1ab-0242ac120002&CID=US&tx=0&s=footer&c=link&d=FAQ&utm_campaign=0fad3c4f-0636-40fc-bf1e-0ae077b9ac6b_0_20220804_treatment1" style="color:#333333; font-size:12px!important;">FAQ</a> |
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="13px" color="#333333" align="center">
+          <a href="https://www.groupon.com/giftcards?utm_source=channel_pc_im&utm_medium=email&t_division=harrisburg&date=20220804&uu=980428dc-d58d-11ea-a1ab-0242ac120002&CID=US&tx=0&s=footer&c=link&d=GiftCards&utm_campaign=0fad3c4f-0636-40fc-bf1e-0ae077b9ac6b_0_20220804_treatment1" style="color:#333333; font-size:12px!important;">Gift Cards</a> |
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="13px" color="#333333" align="center">
+          <a href="https://www.groupon.com/faq" style="color:#333333; font-size:12px!important;">Gontact</a>
+        </mj-text>
+      </mj-column>
+    </mj-group>
+    </mj-section>
+    <mj-section background-color="#f6f7f8">
+      <mj-column width="500px" padding="25px 3px 0 3px">
+        <mj-text font-size="12px" font-family="Arial" color="#333333" align="center" line-height="20px">
+          You are receiving this email because JohnDoe@gmail.com is signed up to receive Groupon communications.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f6f7f8">
+      <mj-column width="500px" padding="0 3px 0 3px">
+        <mj-text font-size="12px" font-family="Arial" color="#333333" align="center" line-height="20px">
+          To adjust how often you receive future Groupon emails, including unsubscribing,
+          <a href="https://www.groupon.com/subscription_center/980428dc-d58d-11ea-a1ab-0242ac120002?cmplistId=division:harrisburg&user=0efdd7c698c6c408cebb475b8e8bce769633d55a9d1cc709153f496a26eba22f&utm_source=channel_pc_im&utm_medium=email&t_division=harrisburg&date=20220804&uu=980428dc-d58d-11ea-a1ab-0242ac120002&CID=US&tx=0&s=footer&c=link&d=channel_unsub&utm_campaign=0fad3c4f-0636-40fc-bf1e-0ae077b9ac6b_0_20220804_treatment1" style="color:#53A318; text-decoration: underline!important; fontsize:12px; font-weight:normal!important;">
+            click here.</a>
+          Delivered by Groupon, Inc. 600 W. Chicago Avenue, Suite 400, Chicago, IL 60654, USA
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--start footer socials-->
+    <mj-section background-color="#f6f7f8" padding="20px 0 15px 0">
+      <mj-group>
+        <mj-column>
+          <mj-image src="http://127.0.0.1:5500/assets/insta.png" alt="instagram logo" href="https://www.instagram.com/groupon/" width="20px" height="20px" align="right" />
+        </mj-column>
+        <mj-column>
+          <mj-image src="http://127.0.0.1:5500/assets/facebook.png" alt="instagram logo" href="https://www.facebook.com/groupon/" width="20px" height="20px" align="center" />
+        </mj-column>
+        <mj-column>
+          <mj-image src="http://127.0.0.1:5500/assets/twitter.png" alt="instagram logo" href="https://www.twitter.com/groupon/" width="20px" height="20px" align="left" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+</mj-wrapper>
