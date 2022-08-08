@@ -20,7 +20,7 @@
       }
 
       a:hover {
-        color: #ff0000;
+        color: #000000;
       }
 
       @media only screen and (max-width:390px){
@@ -65,19 +65,19 @@
     <!--start top section-->
     <mj-section background-color="#ffffff" padding="0">
       <mj-column width="50%" padding="5px 2px">
-        <mj-image css-class="border-gray" src="http://127.0.0.1:5500/assets/zoo.png" href="https://groupon.com" alt="Maryland Zoo" width="292px" height="308px" padding="0" />
+        <mj-image css-class="border-gray" src="https://i.imgur.com/dbMgvpQ.png" href="https://groupon.com" alt="Maryland Zoo" width="292px" height="308px" padding="0" />
       </mj-column>
       <mj-column width="50%" padding="5px 2px">
-        <mj-image css-class="border-gray" src="http://127.0.0.1:5500/assets/bar-and-grill.png" href="https://groupon.com" alt="Image of a Bar" width="292px" height="308px" padding="0" />
+        <mj-image css-class="border-gray" src="https://i.imgur.com/vfmtJfb.png" href="https://groupon.com" alt="Image of a Bar" width="292px" height="308px" padding="0" />
       </mj-column>
     </mj-section>
 
     <mj-section background-color="#ffffff" padding="0">
       <mj-column width="50%" padding="5px 2px">
-        <mj-image css-class="border-gray" src="http://127.0.0.1:5500/assets/hotel.png" href="https://groupon.com" alt="Aladdin Hotel" width="292px" height="308px" padding="0" />
+        <mj-image css-class="border-gray" src="https://i.imgur.com/M26ZYbf.png" href="https://groupon.com" alt="Aladdin Hotel" width="292px" height="308px" padding="0" />
       </mj-column>
       <mj-column width="50%" padding="5px 2px">
-        <mj-image src="http://127.0.0.1:5500/assets/to-do-list.png" href="https://groupon.com" alt="Link to to do list" width="292px" height="200px" padding="0" />
+        <mj-image src="https://i.imgur.com/oJKehhR.png" href="https://groupon.com" alt="Link to to do list" width="292px" height="200px" padding="0" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff">
@@ -92,7 +92,7 @@
     <mj-section padding="5px 2px 0">
       <mj-group css-class="full-border">
         <mj-column padding="10px 0 10px">
-          <mj-image src="http://127.0.0.1:5500/assets/waterpark.jpg" alt="Snickets Water Park" width="260px" height="220px" />
+          <mj-image src="https://i.imgur.com/dUvSDMY.jpg" alt="Snickets Water Park" width="260px" height="220px" />
         </mj-column>
         <mj-column>
           <mj-text css-class="deal-title" padding-top="3px" font-size="16px">
@@ -118,7 +118,7 @@
     <mj-section padding="0px 2px">
       <mj-group css-class="border-gray">
         <mj-column padding="10px 0 10px">
-          <mj-image src="http://127.0.0.1:5500/assets/gokarts.jpg" alt="Riding go kart at speedway" width="260px" height="220px" />
+          <mj-image src="https://i.imgur.com/eEpaJQI.jpg" alt="Riding go kart at speedway" width="260px" height="220px" />
         </mj-column>
         <mj-column>
           <mj-text css-class="deal-title" padding-top="3px" font-size="16px">
@@ -144,7 +144,7 @@
     <mj-section padding="0 2px">
       <mj-group css-class="border-gray">
         <mj-column padding="10px 0 10px">
-          <mj-image src="http://127.0.0.1:5500/assets/store.jpg" alt="Man changing oil in car" width="260px" height="220px" />
+          <mj-image src="https://i.imgur.com/df7t1SY.jpg" alt="inside of ADG Wholesale Store" width="260px" height="220px" />
         </mj-column>
         <mj-column>
           <mj-text css-class="deal-title" padding-top="3px" font-size="16px">
@@ -170,7 +170,7 @@
     <mj-section padding="0 2px">
       <mj-group css-class="border-gray">
         <mj-column padding="10px 0 10px">
-          <mj-image src="http://127.0.0.1:5500/assets/oilchange.jpg" alt="Man changing oil in car" width="260px" height="220px" />
+          <mj-image src="https://i.imgur.com/NO9u9Qg.jpg" alt="Man changing oil in car" width="260px" height="220px" />
         </mj-column>
         <mj-column>
           <mj-text css-class="deal-title" padding-top="3px" font-size="16px">
@@ -196,7 +196,7 @@
     <mj-section padding="0 2px">
       <mj-group css-class="border-gray">
         <mj-column padding="10px 0 10px">
-          <mj-image src="http://127.0.0.1:5500/assets/gym.jpg" alt="Woman in Gym" width="260px" height="220px" />
+          <mj-image src="https://i.imgur.com/fWzfzvB.jpg" alt="Woman in Gym" width="260px" height="220px" />
         </mj-column>
         <mj-column>
           <mj-text css-class="deal-title" padding-top="3px" font-size="16px">
@@ -236,23 +236,23 @@
     <mj-section padding="0 10px 15px 10px">
     <mj-group>
         <mj-column>
-            <mj-image src="http://127.0.0.1:5500/assets/food.png" 
+            <mj-image src="https://i.imgur.com/osRFEAK.png" 
             href="https://www.groupon.com/browse/harrisburg?category=food-and-drink" alt="Pancakes with strawberrys and syrup being poured image to food section of groupon.com" 
             width="190px" height="190px" align="left"/>
         </mj-column>
         <mj-column>
-            <mj-image src="http://127.0.0.1:5500/assets/travel.png" href="https://www.groupon.com/getaways" alt="Boat going between mountains on the water image link to travel groupon.com" 
+            <mj-image src="https://i.imgur.com/lLu4n3w.png" href="https://www.groupon.com/getaways" alt="Boat going between mountains on the water image link to travel groupon.com" 
             width="190px" height="190px" align="center"/>
         </mj-column>
         <mj-column>
-            <mj-image src="http://127.0.0.1:5500/assets/art.png" href="https://www.groupon.com/goods/art" alt="Roman sculptures image with link to art section of groupon" 
+            <mj-image src="https://i.imgur.com/6pyQUCC.png" href="https://www.groupon.com/goods/art" alt="Roman sculptures image with link to art section of groupon" 
             width="190px" height="190px" align="right"/>
         </mj-column>
         </mj-group>
     </mj-section>
     <mj-section padding="5px 5px 45px 5px">
         <mj-column>
-            <mj-image href="https://www.groupon.com/browse/?topcategory=local" src="http://127.0.0.1:5500/assets/button.jpg" alt="See More Deals" />
+            <mj-image href="https://www.groupon.com/browse/?topcategory=local" src="https://i.imgur.com/HzwHsPf.jpg" alt="See More Deals" />
         </mj-column>
     </mj-section>
     <!--end 3rd section-->

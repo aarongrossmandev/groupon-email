@@ -3,12 +3,12 @@
   </mj-raw>
     <mj-section css-class="header" padding="30px 0 10px">
       <mj-column padding="0">
-        <mj-image src="http://127.0.0.1:5500/assets/groupon-logo.png" alt="Groupon logo" href="https://www.groupon.com/" width="136px" height="30px" padding="0"/>
+        <mj-image src="https://i.imgur.com/G0n7xAk.png" alt="Groupon logo" href="https://www.groupon.com/" width="136px" height="30px" padding="0"/>
       </mj-column>
     </mj-section>
     <mj-section css-class="header" padding="10px 0">>
         <mj-column padding="0">
-            <mj-image src="http://127.0.0.1:5500/assets/for-you-img.png" alt="We Saw These and Thought Of You, Deals Selected Just For You" href="https://www.groupon.com/"
+            <mj-image src="https://i.imgur.com/e6IDiun.png" alt="We Saw These and Thought Of You, Deals Selected Just For You" href="https://www.groupon.com/"
             width="600px" height="80px" padding="0"/>
         </mj-column>
     </mj-section>
